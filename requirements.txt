@@ -1,0 +1,7 @@
+langchain-ollama
+langgraph
+playwright
+playwright-stealth
+gradio
+pillow
+beautifulsoup4
